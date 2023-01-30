@@ -2,4 +2,5 @@ git config --list
 git config
 git --version
 git init
+git log
 
